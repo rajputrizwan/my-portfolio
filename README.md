@@ -49,8 +49,8 @@ Here’s a list of the technologies and tools I specialize in:
 ## ✉️ **Get in Touch**
 
 - **Email**: [codenestworld@gmail.com](mailto:codenestworld@gmail.com)  
-- **LinkedIn**: [My-Profile](https://www.linkedin.com/in/rizwanrajput/)  
-- **GitHub**: [My-Profile](https://github.com/rajputrizwan/)
+- **LinkedIn**: [LinkedIn-Profile](https://www.linkedin.com/in/rizwanrajput/)  
+- **GitHub**: [GitHub-Profile](https://github.com/rajputrizwan/)
 
 ---
 
