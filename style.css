@@ -890,7 +890,7 @@ padding-bottom: 0.15em;
 
 .role-wrapper .letters {
 display: inline-block;
-line-height: 1em;
+line-height: 1.5em;
 opacity: 0;
 animation: moveIn 1.5s ease-out forwards;
 }
